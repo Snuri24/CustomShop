@@ -1,0 +1,607 @@
+{
+    "v00": {
+		"type": "ImageView",
+		"image": "shop_background2.png",
+		"position": [
+			262,
+			64
+		],
+		"visible": true
+	},
+	"v01": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			286, 
+			142
+		],
+		"visible": true
+	},
+	"v02": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			548, 
+			142
+		],
+		"visible": true
+	},
+	"v03": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			286, 
+			246
+		],
+		"visible": true
+	},
+	"v04": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			548, 
+			246
+		],
+		"visible": true
+	},
+	"v05": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			286, 
+			350
+		],
+		"visible": true
+	},
+	"v06": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			548, 
+			350
+		],
+		"visible": true
+	},
+	"v07": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			286, 
+			454
+		],
+		"visible": true
+	},
+	"v08": {
+		"type": "ImageView",
+		"image": "item_background.png",
+		"position": [
+			548, 
+			454
+		],
+		"visible": true
+	},
+	"t00": {
+		"type": "Text",
+		"text": "1 / 1",
+		"fontSize": 18,
+		"alignment": "CENTER",
+		"maxLength": 7,
+		"position": [
+			538, 
+			556
+		],
+		"visible": true
+	},
+	"t01": {
+		"type": "Text",
+		"text": "0",
+		"fontSize": 18,
+		"alignment": "RIGHT",
+		"maxLength": 12,
+		"position": [
+			990, 
+			607
+		],
+		"visible": true
+	},
+	"ta1": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			380, 
+			153
+		],
+		"visible": true
+	},
+	"ta2": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			642, 
+			153
+		],
+		"visible": true
+	},
+	"ta3": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			380, 
+			257
+		],
+		"visible": true
+	},
+	"ta4": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			642, 
+			257
+		],
+		"visible": true
+	},
+	"ta5": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			380, 
+			361
+		],
+		"visible": true
+	},
+	"ta6": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			642,
+			361
+		],
+		"visible": true
+	},
+	"ta7": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			380, 
+			465
+		],
+		"visible": true
+	},
+	"ta8": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "LEFT",
+		"maxLength": 7,
+		"position": [
+			642, 
+			465
+		],
+		"visible": true
+	},
+	"tb1": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			494, 
+			181
+		],
+		"visible": true
+	},
+	"tb2": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			756, 
+			181
+		],
+		"visible": true
+	},
+	"tb3": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			494, 
+			285
+		],
+		"visible": true
+	},
+	"tb4": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			756, 
+			285
+		],
+		"visible": true
+	},
+	"tb5": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			494, 
+			389
+		],
+		"visible": true
+	},
+	"tb6": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			756, 
+			389
+		],
+		"visible": true
+	},
+	"tb7": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			494, 
+			493
+		],
+		"visible": true
+	},
+	"tb8": {
+		"type": "Text",
+		"text": "",
+		"fontSize": 16,
+		"alignment": "RIGHT",
+		"maxLength": 7,
+		"position": [
+			756, 
+			493
+		],
+		"visible": true
+	},
+	"b01": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			440, 
+			204
+		],
+		"visible": true
+	},
+	"b02": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			702, 
+			204
+		],
+		"visible": true
+	},
+	"b03": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			440, 
+			308
+		],
+		"visible": true
+	},
+	"b04": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			702, 
+			308
+		],
+		"visible": true
+	},
+	"b05": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			440, 
+			412
+		],
+		"visible": true
+	},
+	"b06": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			702, 
+			412
+		],
+		"visible": true
+	},
+	"b07": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			440, 
+			516
+		],
+		"visible": true
+	},
+	"b08": {
+		"type": "Button",
+		"image": [
+			"button_sell_idle.png", 
+			"button_sell_focused.png", 
+			"button_sell_clicked.png", 
+			"button_sell_disabled.png"
+		],
+		"position": [
+			702, 
+			516
+		],
+		"visible": true
+	},
+	"ba1": {
+		"type": "Button",
+		"image": [
+			"arrow_left_idle.png", 
+			"arrow_left_focused.png", 
+			"arrow_left_clicked.png", 
+			"arrow_left_disabled.png"
+		],
+		"position": [
+			490, 
+			558
+		],
+		"visible": true
+	},
+	"ba2": {
+		"type": "Button",
+		"image": [
+			"arrow_right_idle.png", 
+			"arrow_right_focused.png", 
+			"arrow_right_clicked.png", 
+			"arrow_right_disabled.png"
+		],
+		"position": [
+			572, 
+			558
+		],
+		"visible": true
+	},
+	"i01": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			298, 
+			153
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			303, 
+			157
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i02": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			560, 
+			153
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			565, 
+			157
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i03": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			298, 
+			257
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			303, 
+			261
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i04": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			560, 
+			257
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			565, 
+			261
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i05": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			298, 
+			361
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			303, 
+			365
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i06": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			560, 
+			361
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			565, 
+			365
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i07": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			298, 
+			465
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			303, 
+			469
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	},
+	"i08": {
+		"type": "ItemView",
+		"item": "",
+		"framePos": [
+			560, 
+			465
+		],
+		"frameSize": [
+			71, 
+			71
+		],
+		"position": [
+			565, 
+			469
+		],
+		"size": [
+			64, 
+			64
+		],
+		"visible": true
+	}
+}
