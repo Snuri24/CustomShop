@@ -113,7 +113,8 @@ public class CustomShop {
     }
 
     // do something that can only be done on the client
-    private void doClientStuff(final FMLClientSetupEvent event) {
+    @SuppressWarnings("deprecation")
+	private void doClientStuff(final FMLClientSetupEvent event) {
     	Minecraft mc = Minecraft.getInstance();
     	File modFolder = new File(mc.gameDirectory, "mods/CustomShop");
     	if(!modFolder.exists()) {
@@ -152,12 +153,13 @@ public class CustomShop {
 		            }
 				}
 			});
-			mc.getResourcePackRepository().reload();
 			
 			Set<String> selected = Sets.newLinkedHashSet();
 			selected.addAll(mc.options.resourcePacks);
 			selected.add(pack.getName());
 			mc.getResourcePackRepository().setSelected(selected);
+			
+			mc.delayTextureReload();
 		}
 		
 		File json = new File(modFolder, "settings.json");
